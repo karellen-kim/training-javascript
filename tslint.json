@@ -16,6 +16,8 @@
     "promise-function-async": false,
     "no-void-expression": false,
     "no-redundant-jsdoc": false,
+    "no-console": false,
+    "no-any": false,
     "prefer-type-cast": false,
     "typedef": [
       true,

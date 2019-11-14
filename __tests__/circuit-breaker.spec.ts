@@ -1,4 +1,4 @@
-import {CircuitBreaker} from "../src/circuit-breaker";
+import {CircuitBreaker} from "../src/patterns/circuit-breaker";
 
 describe('Circuit Breakr', () => {
   it('정상적으로 동작한다', () => {
